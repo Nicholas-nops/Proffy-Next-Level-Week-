@@ -5,4 +5,4 @@ This is the "Proffy" a Web platform based on ReactJS And Typescript his purpose 
 ![main page](https://github.com/Nicholas-nops/Proffy-Next-Level-Week-/blob/master/pagina%20inicial.PNG)
 
 * Teacher sign up form.
-![main page](https://github.com/Nicholas-nops/Proffy-Next-Level-Week-/blob/master/teach.PNG)
+![main page](https://github.com/Nicholas-nops/Proffy-Next-Level-Week-/blob/master/teachform.jpg)
